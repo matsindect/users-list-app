@@ -15,7 +15,7 @@ The User List App is a responsive application that fetches user data from the [R
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-list-app.git
+   git clone https://github.com/matsindect/users-list-app.git
    cd user-list-app
 
 2. Install the dependencies:
@@ -39,4 +39,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgements
 
-Reqres API for providing user data for demonstration purposes.
+[Reqres API](https://reqres.in/) for providing user data for demonstration purposes.
